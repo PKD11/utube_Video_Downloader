@@ -111,7 +111,7 @@ def play_preview(video_path):
 
 # Set window title
 root = tk.Tk()
-root.title("PKD's Utube Downloader")
+root.title("Utµbε   ∆¤ωNL¤aδεr")
 
 # Load youtube logo
 logo_image = Image.open("youtube_logo.png")
@@ -154,7 +154,7 @@ status_label = tk.Label(root, text="")
 status_label.pack()
 
 # Credit label
-credit_label = tk.Label(root, text="Created by Pritam Kumar Dutta", fg="gray")
+credit_label = tk.Label(root, text="Created by G13", fg="gray")
 credit_label.pack(side="bottom", padx=10, pady=10)
 
 
