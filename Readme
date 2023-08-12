@@ -1,5 +1,10 @@
-This is You Tube Video Downloader
+This is YouTube Video Downloader
 
-For a detailed info check out the ReadMe.html file.
+For detailed info regarding the installation & project check out the ReadMe.html file.
+
+For a demonstration, check out the demo_video file.
 
 THank yoU!!
+
+
+[**Note: If you are facing an error in the UI stating "error: init could not find a match for ^\w+\W", check out "https://youtu.be/iw6rFNIYVdI"]
